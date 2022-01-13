@@ -1,3 +1,16 @@
+# Daily Task Planner
+
+This proejct aims to create a simple calendar application that allows a user to save events for each hour of the day.
+
+This browser-based app feature dynamically updated HTML and CSS powered by jQuery.
+
+## Useful links to
+
+- [Deployed project](https://danlo-byte.github.io/Daily-Task-Planner/)
+
+- [Repo](https://github.com/DanLo-byte/Daily-Task-Planner)
+
+
 ## Acceptance Criteria
 
 GIVEN I am using a daily planner to create a schedule
@@ -22,4 +35,4 @@ THEN the saved events persist
 
 The following animation demonstrates the application functionality:
 
-![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif)
+![A user clicks on slots on the color-coded calendar and edits the events.](./assets/05-third-party-apis-homework-demo.gif)
