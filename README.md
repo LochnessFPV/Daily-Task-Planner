@@ -4,7 +4,7 @@ This proejct aims to create a simple calendar application that allows a user to 
 
 This browser-based app feature dynamically updated HTML and CSS powered by jQuery.
 
-## Useful links to
+## Useful links
 
 - [Deployed project](https://danlo-byte.github.io/Daily-Task-Planner/)
 
